@@ -1,37 +1,22 @@
-<!-- DO NOT EDIT — Auto-generated portfolio README -->
 <div align="center">
-
-![Banner](docs/images/banner.svg)
 
 # 📓 Diary Journal Organizer
 
+**AI-powered diary and journal organizer using local Gemma 4 LLM via Ollama**
+
 A compassionate AI journal companion that analyzes mood patterns, discovers themes, tracks writing streaks, generates monthly reflections, and provides supportive personal insights — all privately on your machine.
 
-[![Gemma 4](https://img.shields.io/badge/Gemma_4-Local_AI-2ec4b6.svg?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/gemma)
-[![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Private](https://img.shields.io/badge/100%25-Private-2ea043.svg?style=for-the-badge&logo=shield&logoColor=white)](#-local-vs-cloud)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Local LLM](https://img.shields.io/badge/Local_LLM-Ollama_Gemma4-2ec4b6.svg?style=for-the-badge&logo=google&logoColor=white)](https://ollama.com)
+[![Privacy First](https://img.shields.io/badge/Privacy-First-2ea043.svg?style=for-the-badge&logo=shield&logoColor=white)](#-local-vs-cloud)
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Click](https://img.shields.io/badge/Click-CLI-4EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://click.palletsprojects.com)
-[![pytest](https://img.shields.io/badge/pytest-tested-009688.svg?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/kennedyraju55/diary-journal-organizer/pulls)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=flat-square&logo=docker&logoColor=white)](Dockerfile)
+[![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-009688.svg?style=flat-square&logo=fastapi&logoColor=white)](src)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Web_UI-FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)](src)
+[![Tests](https://img.shields.io/badge/Tests-pytest-009688.svg?style=flat-square&logo=pytest&logoColor=white)](tests)
 
----
-
-[Features](#-features) •
-[Quick Start](#-quick-start) •
-[CLI Reference](#-cli-reference) •
-[Web UI](#-web-ui) •
-[Architecture](#-architecture) •
-[API Reference](#-api-reference) •
-[Configuration](#%EF%B8%8F-configuration) •
-[Testing](#-testing) •
-[FAQ](#-faq) •
-[Contributing](#-contributing)
+**[Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [API](#-rest-api) • [CLI](#-cli-reference) • [FAQ](#-faq)**
 
 </div>
 
